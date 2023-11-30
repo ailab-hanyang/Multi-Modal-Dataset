@@ -9,8 +9,8 @@ The SPISS dataset is a comprehensive dataset for on-road dynamic objects, create
 
 <div align="center">
 <p float="center">
-<img src="docs/iss.gif" width="400"/>
-<img src="docs/pcss.gif" width="480"/>
+<img src="docs/iss.gif" width="350"/>
+<img src="docs/pcss.gif" width="420"/>
 <br />
 <b>Example clip from our dataset with ISS annotations (left), and PCSS annotations (right) overlaid.</b>
 </p>
