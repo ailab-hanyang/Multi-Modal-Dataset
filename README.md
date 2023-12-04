@@ -141,7 +141,7 @@ The data is organized in the following [SemanticKITTI](http://www.semantic-kitti
 ```
 
 ## Access
-The download link for SPISS dataset will be uploaded after the review process!
+https://ailabdataset.synology.me:5001/sharing/dqeJDjmfw
 
 ## Contact
 If you have any questions, please let me know:
