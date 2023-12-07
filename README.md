@@ -141,7 +141,7 @@ The data is organized in the following [SemanticKITTI](http://www.semantic-kitti
 ```
 
 ## Access
-https://ailabdataset.synology.me:5001/sharing/dqeJDjmfw
+[ZIP](https://drive.google.com/file/d/1m4zR5J2TS-0YOvRNTLSBpk2OwuTzNTrJ/view?usp=sharing)
 
 ## Contact
 If you have any questions, please let me know:
