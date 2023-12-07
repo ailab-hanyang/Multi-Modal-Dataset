@@ -118,7 +118,7 @@ The data is organized in the following [SemanticKITTI](http://www.semantic-kitti
 ```
 /dataset/
     └── sequences/
-            ├── 01/
+            ├── 00/
             │   ├── calib.txt
             │   ├── img/
             │   │     ├ 000000.png
@@ -137,11 +137,12 @@ The data is organized in the following [SemanticKITTI](http://www.semantic-kitti
             .
             .
             .
-            └── 17/
+            └── 16/
 ```
 
 ## Access
-[ZIP](https://drive.google.com/file/d/1m4zR5J2TS-0YOvRNTLSBpk2OwuTzNTrJ/view?usp=sharing)
+- [Sample](https://drive.google.com/drive/folders/1FJZ5WMp6SgNVKWpQkKGIlXk36CjBO9Q6?usp=sharing) (00 sequence)
+- [Full](https://drive.google.com/file/d/1m4zR5J2TS-0YOvRNTLSBpk2OwuTzNTrJ/view?usp=sharing) (00-16 sequences)
 
 ## Contact
 If you have any questions, please let me know:
