@@ -142,7 +142,7 @@ The data is organized in the following [SemanticKITTI](http://www.semantic-kitti
 
 ## Access
 - [Sample](https://drive.google.com/drive/folders/1FJZ5WMp6SgNVKWpQkKGIlXk36CjBO9Q6?usp=sharing) (00 sequence)
-- [Full](https://drive.google.com/file/d/1m4zR5J2TS-0YOvRNTLSBpk2OwuTzNTrJ/view?usp=sharing) (00-16 sequences)
+- [Full](https://drive.google.com/file/d/1IhUCJBHMGGCVp21QgJ4R9U09N1EW5L5d/view?usp=drivesdk) (00-16 sequences)
 
 ## Contact
 If you have any questions, please let me know:
